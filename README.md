@@ -3,6 +3,8 @@ a social robot is an autonomous robot that interacts and communicates with human
 
 this project deals with creation of such a social robot from scratch. currently the repo includes the code for design and implementation of the software side of the project.  
 
+![](https://github.com/yedhink/social-robot/blob/master/report/compile_report/real_front.jpg)
+
 refer to [the final project report](https://github.com/yedhink/social-robot/blob/master/project_report.pdf) for more details on the hardware side and the exact implementation details.
 
 ## overview
