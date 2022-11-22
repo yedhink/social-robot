@@ -3,7 +3,7 @@ pyFirmata==1.0.3
 numpy==1.15.4
 tornado==5.1
 opencv_contrib_python==3.4.2.17
-Pillow==6.2.0
+Pillow==9.3.0
 pyserial==3.4
 scikit_learn==0.20.0
 matplotlib==2.2.3
